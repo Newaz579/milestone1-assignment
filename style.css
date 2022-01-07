@@ -1,4 +1,158 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.first-section {
+    display: flex;
+}
+
+.second-section {
+    display: flex;
+}
+
+.third-section {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 110px;
+    margin-left: 110px;
+}
+
+.second-section img {
+    width: 35%;
+}
+
+.third-section p {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.second-section p {
+    font-size: 18px;
+}
+
+.first-section div {
+    margin-left: 110px;
+    margin-top: 100px;
+    width: 50%;
+}
+
+.stay-focused-p {
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.mission-one-heading {
+    font-size: 60px;
+    border-left: 5px solid red;
+    padding-left: 10px;
+}
+
+.mission-two-heading {
+    text-align: center;
+    font-size: 55px;
+}
+
+.focused-img {
+    width: 65%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 15px 40px;
+    border-radius: 7px;
+    color: white;
+}
+
+.scroll-down {
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.parallel-box {
+    width: 33.33%;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.p-box-1 {
+    background-color: rgba(255, 218, 185, 0.36);
+}
+
+.p-box-2 {
+    background-color: rgba(187, 123, 162, 0.217);
+}
+
+.p-box-3 {
+    background-color: rgba(132, 185, 199, 0.217);
+}
+
+
+.coding-img {
+    width: 85%;
+
+}
+
+.fourth-sec {
+    width: 85%;
+}
+
+.group-img {
+    width: 100%;
+}
+
+.limit {
+    font-size: 40px;
+    width: 290px;
+}
+
+.limit-2 {
+    font-size: 40px;
+    width: 326px;
+}
+
+footer {
+    margin: 0px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 37px;
+}
+
+#mission {
+    font-family: 'Oleo Script', cursive;
+    font-size: 45px;
+}
+
+.final-section {
+    display: flex;
+    margin-right: 110px;
+    margin-left: 110px;
+    margin-bottom: 100px;
+
+}
+
+.half-div {
+    padding: 20px;
+    box-shadow: 1px 1px 10px 1px black;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#red {
+    color: red;
 }
